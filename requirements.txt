@@ -1,7 +1,7 @@
-streamlit==1.41.1
+streamlit
 pandas
 matplotlib
 seaborn
-emoji
 wordcloud
+emoji
 urlextract
